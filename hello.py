@@ -1,0 +1,1 @@
+print("code->eat->sleep->repeat")
